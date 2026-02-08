@@ -1,10 +1,10 @@
-# Zomato Invoice Parser
+# Food Delivery Spend Analyser
 
 Automatically download PDF invoices from Gmail and parse them into a Google Sheet.
 
 ## Features
 - Downloads PDF attachments from Gmail using search queries
-- Parses Zomato invoices to extract date, restaurant, amount, and items
+- Parses invoices to extract date, restaurant, amount, and items
 - Creates a Google Sheet with organized invoice data
 
 ## Setup
